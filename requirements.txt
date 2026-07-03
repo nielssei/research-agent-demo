@@ -1,0 +1,5 @@
+langchain
+langchain-openai
+langgraph
+requests
+python-dotenv
