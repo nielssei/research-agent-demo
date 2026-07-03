@@ -1,0 +1,1 @@
+A university project implementing a ReAct-based academic research agent with LangGraph and GPT-5.5. Searches arXiv for relevant papers, retrieves abstracts, synthesizes findings, and presents structured literature summaries through tool-augmented reasoning.
